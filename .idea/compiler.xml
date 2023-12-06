@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Chat_Bot_(Kotlin).Simple_Chat_Bot__Kotlin_-task-build-classes-java.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Simple_Chat_Bot__Kotlin_-task-build-classes-kotlin.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Simple_Chat_Bot__Kotlin_-task-build-generated-sources-annotationProcessor-java.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Simple_Chat_Bot__Kotlin_-task-build-generated-sources-headers-java.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Simple_Chat_Bot__Kotlin_-task-build-reports-tests.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Simple_Chat_Bot__Kotlin_-task-build-test-results.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Simple_Chat_Bot__Kotlin_-task-build-tmp.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Simple_Chat_Bot__Kotlin_-task.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Comments-Comment_some_lines.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Comments-Groups_of_comments.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Comments-Printing_only_the_longest_line.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Comments-The_countdown.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Comments-Theory.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Comments-Uncomment_some_lines.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Declaring_functions-Division.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Declaring_functions-Return_type.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Declaring_functions-The_sum_of_three_numbers.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Declaring_functions-Theory.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-For_loop_and_ranges-Define_a_for-loop.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-For_loop_and_ranges-The_roots_of_equation.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-For_loop_and_ranges-The_sum_of_N_numbers.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-For_loop_and_ranges-Theory.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Ranges-Check_the_value.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Ranges-Even_numbers_with_steps.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Ranges-Not_in_range.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Ranges-Replenishment_of_cells_in_the_warehouse.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Ranges-Theory.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Ranges-Within_both_ranges.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Working_with_strings-Correct_operations.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Working_with_strings-Last_symbol.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Working_with_strings-Operations_and_truth.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Working_with_strings-The_information_about_a_person.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Working_with_strings-The_number_of_tens.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).Topics-Working_with_strings-Theory.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin).util.main" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
